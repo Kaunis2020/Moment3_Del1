@@ -1,0 +1,25 @@
+{
+    "name": "Moment3_Del1",
+    "scripts": {
+        "dev": "nodemon main.js"
+    },
+    "type":"module",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "main": "main.js",
+    "author": "Jonas",
+    "contributors": [],
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.21.2",
+        "mongoose": "^8.9.5",
+        "node.js": "^0.0.1-security",
+        "nodemon": "^3.1.9"
+    }
+}
